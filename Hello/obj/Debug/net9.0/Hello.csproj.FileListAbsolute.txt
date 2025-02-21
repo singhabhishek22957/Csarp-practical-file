@@ -1,0 +1,14 @@
+E:\MCA\MCA SEMESTER SECOND 2\Application Development Using .NET Technology Framework(MCA-C551),AJAY SINGH RAWAT\coding\Hello\bin\Debug\net9.0\Hello.exe
+E:\MCA\MCA SEMESTER SECOND 2\Application Development Using .NET Technology Framework(MCA-C551),AJAY SINGH RAWAT\coding\Hello\bin\Debug\net9.0\Hello.deps.json
+E:\MCA\MCA SEMESTER SECOND 2\Application Development Using .NET Technology Framework(MCA-C551),AJAY SINGH RAWAT\coding\Hello\bin\Debug\net9.0\Hello.runtimeconfig.json
+E:\MCA\MCA SEMESTER SECOND 2\Application Development Using .NET Technology Framework(MCA-C551),AJAY SINGH RAWAT\coding\Hello\bin\Debug\net9.0\Hello.dll
+E:\MCA\MCA SEMESTER SECOND 2\Application Development Using .NET Technology Framework(MCA-C551),AJAY SINGH RAWAT\coding\Hello\bin\Debug\net9.0\Hello.pdb
+E:\MCA\MCA SEMESTER SECOND 2\Application Development Using .NET Technology Framework(MCA-C551),AJAY SINGH RAWAT\coding\Hello\obj\Debug\net9.0\Hello.GeneratedMSBuildEditorConfig.editorconfig
+E:\MCA\MCA SEMESTER SECOND 2\Application Development Using .NET Technology Framework(MCA-C551),AJAY SINGH RAWAT\coding\Hello\obj\Debug\net9.0\Hello.AssemblyInfoInputs.cache
+E:\MCA\MCA SEMESTER SECOND 2\Application Development Using .NET Technology Framework(MCA-C551),AJAY SINGH RAWAT\coding\Hello\obj\Debug\net9.0\Hello.AssemblyInfo.cs
+E:\MCA\MCA SEMESTER SECOND 2\Application Development Using .NET Technology Framework(MCA-C551),AJAY SINGH RAWAT\coding\Hello\obj\Debug\net9.0\Hello.csproj.CoreCompileInputs.cache
+E:\MCA\MCA SEMESTER SECOND 2\Application Development Using .NET Technology Framework(MCA-C551),AJAY SINGH RAWAT\coding\Hello\obj\Debug\net9.0\Hello.dll
+E:\MCA\MCA SEMESTER SECOND 2\Application Development Using .NET Technology Framework(MCA-C551),AJAY SINGH RAWAT\coding\Hello\obj\Debug\net9.0\refint\Hello.dll
+E:\MCA\MCA SEMESTER SECOND 2\Application Development Using .NET Technology Framework(MCA-C551),AJAY SINGH RAWAT\coding\Hello\obj\Debug\net9.0\Hello.pdb
+E:\MCA\MCA SEMESTER SECOND 2\Application Development Using .NET Technology Framework(MCA-C551),AJAY SINGH RAWAT\coding\Hello\obj\Debug\net9.0\Hello.genruntimeconfig.cache
+E:\MCA\MCA SEMESTER SECOND 2\Application Development Using .NET Technology Framework(MCA-C551),AJAY SINGH RAWAT\coding\Hello\obj\Debug\net9.0\ref\Hello.dll
