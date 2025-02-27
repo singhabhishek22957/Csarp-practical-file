@@ -13,7 +13,8 @@ public class Program
 
         Employee11 emp2 = new Employee11();
         emp2.Input();
-        emp2.Display();     
+        emp2.Display();    
+        Console.WriteLine("The id of the employee is: "); 
 
     }
 }
