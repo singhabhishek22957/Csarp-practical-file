@@ -1,0 +1,15 @@
+E:\MCA\MCA SEMESTER SECOND 2\Application Development Using .NET Technology Framework(MCA-C551),AJAY SINGH RAWAT\coding\Second Practical\obj\Debug\net9.0\Second Practical.GeneratedMSBuildEditorConfig.editorconfig
+E:\MCA\MCA SEMESTER SECOND 2\Application Development Using .NET Technology Framework(MCA-C551),AJAY SINGH RAWAT\coding\Second Practical\obj\Debug\net9.0\Second Practical.AssemblyInfoInputs.cache
+E:\MCA\MCA SEMESTER SECOND 2\Application Development Using .NET Technology Framework(MCA-C551),AJAY SINGH RAWAT\coding\Second Practical\obj\Debug\net9.0\Second Practical.AssemblyInfo.cs
+E:\MCA\MCA SEMESTER SECOND 2\Application Development Using .NET Technology Framework(MCA-C551),AJAY SINGH RAWAT\coding\Second Practical\obj\Debug\net9.0\Second Practical.csproj.CoreCompileInputs.cache
+E:\MCA\MCA SEMESTER SECOND 2\Application Development Using .NET Technology Framework(MCA-C551),AJAY SINGH RAWAT\coding\Second Practical\obj\Debug\net9.0\Second Practical.sourcelink.json
+E:\MCA\MCA SEMESTER SECOND 2\Application Development Using .NET Technology Framework(MCA-C551),AJAY SINGH RAWAT\coding\Second Practical\bin\Debug\net9.0\Second Practical.exe
+E:\MCA\MCA SEMESTER SECOND 2\Application Development Using .NET Technology Framework(MCA-C551),AJAY SINGH RAWAT\coding\Second Practical\bin\Debug\net9.0\Second Practical.deps.json
+E:\MCA\MCA SEMESTER SECOND 2\Application Development Using .NET Technology Framework(MCA-C551),AJAY SINGH RAWAT\coding\Second Practical\bin\Debug\net9.0\Second Practical.runtimeconfig.json
+E:\MCA\MCA SEMESTER SECOND 2\Application Development Using .NET Technology Framework(MCA-C551),AJAY SINGH RAWAT\coding\Second Practical\bin\Debug\net9.0\Second Practical.dll
+E:\MCA\MCA SEMESTER SECOND 2\Application Development Using .NET Technology Framework(MCA-C551),AJAY SINGH RAWAT\coding\Second Practical\bin\Debug\net9.0\Second Practical.pdb
+E:\MCA\MCA SEMESTER SECOND 2\Application Development Using .NET Technology Framework(MCA-C551),AJAY SINGH RAWAT\coding\Second Practical\obj\Debug\net9.0\Second Practical.dll
+E:\MCA\MCA SEMESTER SECOND 2\Application Development Using .NET Technology Framework(MCA-C551),AJAY SINGH RAWAT\coding\Second Practical\obj\Debug\net9.0\refint\Second Practical.dll
+E:\MCA\MCA SEMESTER SECOND 2\Application Development Using .NET Technology Framework(MCA-C551),AJAY SINGH RAWAT\coding\Second Practical\obj\Debug\net9.0\Second Practical.pdb
+E:\MCA\MCA SEMESTER SECOND 2\Application Development Using .NET Technology Framework(MCA-C551),AJAY SINGH RAWAT\coding\Second Practical\obj\Debug\net9.0\Second Practical.genruntimeconfig.cache
+E:\MCA\MCA SEMESTER SECOND 2\Application Development Using .NET Technology Framework(MCA-C551),AJAY SINGH RAWAT\coding\Second Practical\obj\Debug\net9.0\ref\Second Practical.dll
