@@ -1,63 +1,30 @@
 ﻿using System;
-using System.Collections.Generic;
-
-class Program
+public class Program
 {
-    class Product
+    static void Main(string[] args)
     {
-        public string Name { get; set; }
-        public int Quantity { get; set; }
-        public double Price { get; set; }
-        public double Discount { get; set; } // Discount in percentage
-        
-        public double GetTotal()
+        Console.WriteLine("Enter a size of array:");
+        int size = Convert.ToInt32(Console.ReadLine());
+        int[] arr = new int[size];
+
+        Dictionary<int, int> freq = new Dictionary<int, int>();
+        for (int i = 0; i < size; i++)
         {
-            double total = Quantity * Price;
-            double discountAmount = total * (Discount / 100);
-            return total - discountAmount;
-        }
-    }
+            Console.Write("Enter " + (i + 1) + " Element: ");
+            arr[i] = Convert.ToInt32(Console.ReadLine());
 
-    static void Main()
-    {
-        List<Product> products = new List<Product>();
-        Console.WriteLine("Welcome to the Billing System\n");
-        
-        while (true)
+            if (freq.ContainsKey(arr[i]))
+            {
+                freq[arr[i]]++;
+            }
+            else
+            {
+                freq[arr[i]] = 1;
+            }
+        }
+        foreach (var pair in freq)
         {
-            Product p = new Product();
-            Console.Write("Enter product name (or type 'done' to finish): ");
-            p.Name = Console.ReadLine();
-            if (p.Name.ToLower() == "done") break;
-
-            Console.Write("Enter quantity: ");
-            p.Quantity = Convert.ToInt32(Console.ReadLine());
-            
-            Console.Write("Enter price per unit: ");
-            p.Price = Convert.ToDouble(Console.ReadLine());
-            
-            Console.Write("Enter discount (%): ");
-            p.Discount = Convert.ToDouble(Console.ReadLine());
-            
-            products.Add(p);
-            Console.WriteLine("Product added successfully!\n");
+            Console.WriteLine(pair.Key + ": " + pair.Value);
         }
-
-        Console.WriteLine("\n------ Bill Summary ------");
-        double grandTotal = 0;
-        
-        Console.WriteLine( "Product\t\t\tQuantity\tPrice\t\tDiscount\t\tTotal");
-        Console.WriteLine("------------------------------------------------------------");
-        
-        foreach (var item in products)
-        {
-            double total = item.GetTotal();
-            grandTotal += total;
-            Console.WriteLine(item.Name+"\t\t\t"+item.Quantity+"\t\t"+ item.Price+"\t\t"+item.Discount + "%"+"\t\t"+total);
-        }
-
-        Console.WriteLine("------------------------------------------------------------");
-        Console.WriteLine("Grand Total: Rs. " + grandTotal);
-        Console.WriteLine("\nThank you for shopping!\n");
     }
 }
