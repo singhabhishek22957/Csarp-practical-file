@@ -1,10 +1,10 @@
 using System;
 
-class Convert
+class Converts
 {
     private string name;
 
-    private Convert(string name)
+    private Converts(string name)
     {
         this.name = name;
         this.show();
@@ -31,10 +31,10 @@ class Convert
         Console.WriteLine("Resultant String: " + result);
     }
 
-    static void Main()
-    {
-        Console.Write("Enter a string: ");
-        string input = Console.ReadLine();
-        new Convert(input);
-    }
+    // static void Main()
+    // {
+    //     Console.Write("Enter a string: ");
+    //     string input = Console.ReadLine();
+    //     new Converts(input);
+    // }
 }
