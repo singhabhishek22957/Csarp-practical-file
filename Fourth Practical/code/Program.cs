@@ -1,68 +1,64 @@
 ﻿using System;
 
-namespace fourth_practical
+class Program
 {
-
-    public abstract class Bike
+    static void Main()
     {
-        public abstract void Average();
-        public abstract void maxSpeed();
+        Console.Write("Enter number of rows (m): ");
+        int m = Convert.ToInt32(Console.ReadLine());
+        
+        Console.Write("Enter number of columns (n): ");
+        int n = Convert.ToInt32(Console.ReadLine());
+        
+        int[,] array = new int[m, n];
+        
+        Console.WriteLine("Enter array elements:");
+        for (int i = 0; i < m; i++)
+        {
+            for (int j = 0; j < n; j++)
+            {
+                Console.Write("Element [{0},{1}]: ", i, j);
+                array[i, j] = Convert.ToInt32(Console.ReadLine());
+            }
+        }
+        
+        if (m == n)
+        {
+            Console.WriteLine("\nTransposed Matrix:");
+            for (int i = 0; i < n; i++)
+            {
+                for (int j = 0; j < m; j++)
+                {
+                    Console.Write(array[j, i] + " ");
+                }
+                Console.WriteLine();
+            }
+        }
+        else if (m > n)
+        {
+            Console.WriteLine("\nColumn-wise Sum:");
+            for (int j = 0; j < n; j++)
+            {
+                int sum = 0;
+                for (int i = 0; i < m; i++)
+                {
+                    sum += array[i, j];
+                }
+                Console.WriteLine("Sum of column {0}: {1}", j + 1, sum);
+            }
+        }
+        else
+        {
+            Console.WriteLine("\nRow-wise Sum:");
+            for (int i = 0; i < m; i++)
+            {
+                int sum = 0;
+                for (int j = 0; j < n; j++)
+                {
+                    sum += array[i, j];
+                }
+                Console.WriteLine("Sum of row {0}: {1}", i + 1, sum);
+            }
+        }
     }
-
-    public class Splendor : Bike
-    {
-        public override void Average()
-        {
-            Console.WriteLine("Splendor Average is 50-60 km/h");
-        }
-        public override void maxSpeed()
-        {
-            Console.WriteLine("Splendor max speed is 70-80 km/h");
-        }
-    }
-    public class RoyalEnfield350 : Bike
-    {
-        public override void Average()
-        {
-            Console.WriteLine("Royal Enfield classic 350 Average is 25-35 km/h");
-        }
-        public override void maxSpeed()
-        {
-            Console.WriteLine("Royal Enfield classic 350 max speed is 110-120 km/h");
-        }
-    }
-    public class KTM : Bike
-    {
-        public override void Average()
-        {
-            Console.WriteLine("KTM Average is 25-35 km/h");
-        }
-        public override void maxSpeed()
-        {
-            Console.WriteLine("KTM max speed is 150-160 km/h");
-        }
-    }
-
-    public class Program
-    {
-        public static void Main(string[] args)
-        {
-            // Splendor
-            Splendor splendor = new Splendor();
-            splendor.Average();
-            splendor.maxSpeed();
-
-            // Royal Enfield 350
-            RoyalEnfield350 royal = new RoyalEnfield350();
-            royal.Average();
-            royal.maxSpeed();
-
-            //KTM
-            KTM ktm = new KTM();
-            ktm.Average();
-            ktm.maxSpeed();
-        }
-
-    }
-
 }
