@@ -1,0 +1,15 @@
+E:\MCA\MCA SEMESTER SECOND 2\Application Development Using .NET Technology Framework(MCA-C551),AJAY SINGH RAWAT\coding\Fourth Practical\code\obj\Debug\net9.0\code.GeneratedMSBuildEditorConfig.editorconfig
+E:\MCA\MCA SEMESTER SECOND 2\Application Development Using .NET Technology Framework(MCA-C551),AJAY SINGH RAWAT\coding\Fourth Practical\code\obj\Debug\net9.0\code.AssemblyInfoInputs.cache
+E:\MCA\MCA SEMESTER SECOND 2\Application Development Using .NET Technology Framework(MCA-C551),AJAY SINGH RAWAT\coding\Fourth Practical\code\obj\Debug\net9.0\code.AssemblyInfo.cs
+E:\MCA\MCA SEMESTER SECOND 2\Application Development Using .NET Technology Framework(MCA-C551),AJAY SINGH RAWAT\coding\Fourth Practical\code\obj\Debug\net9.0\code.csproj.CoreCompileInputs.cache
+E:\MCA\MCA SEMESTER SECOND 2\Application Development Using .NET Technology Framework(MCA-C551),AJAY SINGH RAWAT\coding\Fourth Practical\code\obj\Debug\net9.0\code.sourcelink.json
+E:\MCA\MCA SEMESTER SECOND 2\Application Development Using .NET Technology Framework(MCA-C551),AJAY SINGH RAWAT\coding\Fourth Practical\code\bin\Debug\net9.0\code.exe
+E:\MCA\MCA SEMESTER SECOND 2\Application Development Using .NET Technology Framework(MCA-C551),AJAY SINGH RAWAT\coding\Fourth Practical\code\bin\Debug\net9.0\code.deps.json
+E:\MCA\MCA SEMESTER SECOND 2\Application Development Using .NET Technology Framework(MCA-C551),AJAY SINGH RAWAT\coding\Fourth Practical\code\bin\Debug\net9.0\code.runtimeconfig.json
+E:\MCA\MCA SEMESTER SECOND 2\Application Development Using .NET Technology Framework(MCA-C551),AJAY SINGH RAWAT\coding\Fourth Practical\code\bin\Debug\net9.0\code.dll
+E:\MCA\MCA SEMESTER SECOND 2\Application Development Using .NET Technology Framework(MCA-C551),AJAY SINGH RAWAT\coding\Fourth Practical\code\bin\Debug\net9.0\code.pdb
+E:\MCA\MCA SEMESTER SECOND 2\Application Development Using .NET Technology Framework(MCA-C551),AJAY SINGH RAWAT\coding\Fourth Practical\code\obj\Debug\net9.0\code.dll
+E:\MCA\MCA SEMESTER SECOND 2\Application Development Using .NET Technology Framework(MCA-C551),AJAY SINGH RAWAT\coding\Fourth Practical\code\obj\Debug\net9.0\refint\code.dll
+E:\MCA\MCA SEMESTER SECOND 2\Application Development Using .NET Technology Framework(MCA-C551),AJAY SINGH RAWAT\coding\Fourth Practical\code\obj\Debug\net9.0\code.pdb
+E:\MCA\MCA SEMESTER SECOND 2\Application Development Using .NET Technology Framework(MCA-C551),AJAY SINGH RAWAT\coding\Fourth Practical\code\obj\Debug\net9.0\code.genruntimeconfig.cache
+E:\MCA\MCA SEMESTER SECOND 2\Application Development Using .NET Technology Framework(MCA-C551),AJAY SINGH RAWAT\coding\Fourth Practical\code\obj\Debug\net9.0\ref\code.dll

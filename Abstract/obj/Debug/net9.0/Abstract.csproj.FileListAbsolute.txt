@@ -1,0 +1,15 @@
+E:\MCA\MCA SEMESTER SECOND 2\Application Development Using .NET Technology Framework(MCA-C551),AJAY SINGH RAWAT\coding\Abstract\obj\Debug\net9.0\Abstract.GeneratedMSBuildEditorConfig.editorconfig
+E:\MCA\MCA SEMESTER SECOND 2\Application Development Using .NET Technology Framework(MCA-C551),AJAY SINGH RAWAT\coding\Abstract\obj\Debug\net9.0\Abstract.AssemblyInfoInputs.cache
+E:\MCA\MCA SEMESTER SECOND 2\Application Development Using .NET Technology Framework(MCA-C551),AJAY SINGH RAWAT\coding\Abstract\obj\Debug\net9.0\Abstract.AssemblyInfo.cs
+E:\MCA\MCA SEMESTER SECOND 2\Application Development Using .NET Technology Framework(MCA-C551),AJAY SINGH RAWAT\coding\Abstract\obj\Debug\net9.0\Abstract.csproj.CoreCompileInputs.cache
+E:\MCA\MCA SEMESTER SECOND 2\Application Development Using .NET Technology Framework(MCA-C551),AJAY SINGH RAWAT\coding\Abstract\obj\Debug\net9.0\Abstract.sourcelink.json
+E:\MCA\MCA SEMESTER SECOND 2\Application Development Using .NET Technology Framework(MCA-C551),AJAY SINGH RAWAT\coding\Abstract\bin\Debug\net9.0\Abstract.exe
+E:\MCA\MCA SEMESTER SECOND 2\Application Development Using .NET Technology Framework(MCA-C551),AJAY SINGH RAWAT\coding\Abstract\bin\Debug\net9.0\Abstract.deps.json
+E:\MCA\MCA SEMESTER SECOND 2\Application Development Using .NET Technology Framework(MCA-C551),AJAY SINGH RAWAT\coding\Abstract\bin\Debug\net9.0\Abstract.runtimeconfig.json
+E:\MCA\MCA SEMESTER SECOND 2\Application Development Using .NET Technology Framework(MCA-C551),AJAY SINGH RAWAT\coding\Abstract\bin\Debug\net9.0\Abstract.dll
+E:\MCA\MCA SEMESTER SECOND 2\Application Development Using .NET Technology Framework(MCA-C551),AJAY SINGH RAWAT\coding\Abstract\bin\Debug\net9.0\Abstract.pdb
+E:\MCA\MCA SEMESTER SECOND 2\Application Development Using .NET Technology Framework(MCA-C551),AJAY SINGH RAWAT\coding\Abstract\obj\Debug\net9.0\Abstract.dll
+E:\MCA\MCA SEMESTER SECOND 2\Application Development Using .NET Technology Framework(MCA-C551),AJAY SINGH RAWAT\coding\Abstract\obj\Debug\net9.0\refint\Abstract.dll
+E:\MCA\MCA SEMESTER SECOND 2\Application Development Using .NET Technology Framework(MCA-C551),AJAY SINGH RAWAT\coding\Abstract\obj\Debug\net9.0\Abstract.pdb
+E:\MCA\MCA SEMESTER SECOND 2\Application Development Using .NET Technology Framework(MCA-C551),AJAY SINGH RAWAT\coding\Abstract\obj\Debug\net9.0\Abstract.genruntimeconfig.cache
+E:\MCA\MCA SEMESTER SECOND 2\Application Development Using .NET Technology Framework(MCA-C551),AJAY SINGH RAWAT\coding\Abstract\obj\Debug\net9.0\ref\Abstract.dll
