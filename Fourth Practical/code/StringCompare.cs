@@ -25,44 +25,44 @@ class StringCompare
         Console.WriteLine("Greatest String: " + greatest);
     }
 
-    static void Main()
-    {
-        Console.WriteLine("Enter number of strings (2-4): ");
-        int count = Convert.ToInt32(Console.ReadLine());
+    // static void Main()
+    // {
+    //     Console.WriteLine("Enter number of strings (2-4): ");
+    //     int count = Convert.ToInt32(Console.ReadLine());
 
-        if (count == 2)
-        {
-            Console.Write("Enter first string: ");
-            string str1 = Console.ReadLine() ?? string.Empty;
-            Console.Write("Enter second string: ");
-            string str2 = Console.ReadLine() ?? string.Empty;
-            Compare(str1, str2);
-        }
-        else if (count == 3)
-        {
-            Console.Write("Enter first string: ");
-            string str1 = Console.ReadLine() ?? string.Empty;
-            Console.Write("Enter second string: ");
-            string str2 = Console.ReadLine() ?? string.Empty;
-            Console.Write("Enter third string: ");
-            string str3 = Console.ReadLine() ?? string.Empty;
-            Compare(str1, str2, str3);
-        }
-        else if (count == 4)
-        {
-            Console.Write("Enter first string: ");
-            string str1 = Console.ReadLine() ?? string.Empty;
-            Console.Write("Enter second string: ");
-            string str2 = Console.ReadLine() ?? string.Empty;
-            Console.Write("Enter third string: ");
-            string str3 = Console.ReadLine() ?? string.Empty;
-            Console.Write("Enter fourth string: ");
-            string str4 = Console.ReadLine() ?? string.Empty;
-            Compare(str1, str2, str3, str4);
-        }
-        else
-        {
-            Console.WriteLine("Invalid input! Enter 2, 3, or 4 strings.");
-        }
-    }
+    //     if (count == 2)
+    //     {
+    //         Console.Write("Enter first string: ");
+    //         string str1 = Console.ReadLine() ?? string.Empty;
+    //         Console.Write("Enter second string: ");
+    //         string str2 = Console.ReadLine() ?? string.Empty;
+    //         Compare(str1, str2);
+    //     }
+    //     else if (count == 3)
+    //     {
+    //         Console.Write("Enter first string: ");
+    //         string str1 = Console.ReadLine() ?? string.Empty;
+    //         Console.Write("Enter second string: ");
+    //         string str2 = Console.ReadLine() ?? string.Empty;
+    //         Console.Write("Enter third string: ");
+    //         string str3 = Console.ReadLine() ?? string.Empty;
+    //         Compare(str1, str2, str3);
+    //     }
+    //     else if (count == 4)
+    //     {
+    //         Console.Write("Enter first string: ");
+    //         string str1 = Console.ReadLine() ?? string.Empty;
+    //         Console.Write("Enter second string: ");
+    //         string str2 = Console.ReadLine() ?? string.Empty;
+    //         Console.Write("Enter third string: ");
+    //         string str3 = Console.ReadLine() ?? string.Empty;
+    //         Console.Write("Enter fourth string: ");
+    //         string str4 = Console.ReadLine() ?? string.Empty;
+    //         Compare(str1, str2, str3, str4);
+    //     }
+    //     else
+    //     {
+    //         Console.WriteLine("Invalid input! Enter 2, 3, or 4 strings.");
+    //     }
+    // }
 }
